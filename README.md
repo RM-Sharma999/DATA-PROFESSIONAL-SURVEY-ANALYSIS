@@ -17,6 +17,7 @@ The dataset was cleaned and processed through the power editor in Power BI. Firs
 
 # Insights
 - The Individuals who took the survey were largely from US, UK, India and Canada.
+![](https://i.imgur.com/1n6RuJp.png)
 - The favorite programming language across all job titles is Python. R is also a highly chosen option in many of the cases. Both languages happen to be highly capable in data analysis, visualization and machine learning.
 - The Survey shows that the highest paying job titles were: Data Scientist, Data Engineer, Data Architect and Data Analyst.
 - The Survey also shows that Average Salary of Females is slightly greater than Males.
