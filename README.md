@@ -19,10 +19,15 @@ The dataset was cleaned and processed through the power editor in Power BI. Firs
 - The Individuals who took the survey were largely from US, UK, India and Canada.
 ![](https://i.imgur.com/1n6RuJp.png)
 - The favorite programming language across all job titles is Python. R is also a highly chosen option in many of the cases. Both languages happen to be highly capable in data analysis, visualization and machine learning.
+![](https://i.imgur.com/cGxuvPJ.png)
 - The Survey shows that the highest paying job titles were: Data Scientist, Data Engineer, Data Architect and Data Analyst.
+![](https://i.imgur.com/4SrJWTo.png)
 - The Survey also shows that Average Salary of Females is slightly greater than Males.
+![](https://i.imgur.com/tnTYCl8.png)
 - On Average, the individual's Happiness With Work/Life Balance was about 5.74 / 10.
+![](https://i.imgur.com/P6qE5FS.png)
 - On Average, the individual's Happiness With Salary was about 4.27 / 10.
+![](https://i.imgur.com/N1nR1aR.png)
 
 # Conclusion
 The survey report provide valuable insights into the data field, highlighting the importance of Python as a preferred programming language, the earning potential of various data roles, and the significance of work-life balance, Salary and so many other things. 
